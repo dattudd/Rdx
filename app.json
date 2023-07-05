@@ -1,5 +1,5 @@
 {
-    "name": "RomeoBot",
+    "name": "💐⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ♥️𝙎𝙪𝙕𝙪𝙈𝙚 ♡ 𝙈𝙪𝙨𝙞𝙘𝄟⃟🦋",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/e745fdaf1966f228582dc.jpg",
     "keywords": [
@@ -35,7 +35,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "𝗧𝘂𝗻𝗲 𝗠𝘂𝘀𝗶𝗰 ™",
+        "value": "💐⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ♥️𝙎𝙪𝙕𝙪𝙈𝙚 ♡ 𝙈𝙪𝙨𝙞𝙘𝄟⃟🦋",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
