@@ -286,19 +286,6 @@ def slider_markup(
     ]
     return buttons
 
-## Extra Shit
-
-close_keyboard = InlineKeyboardMarkup( 
-            [
-                [
-                    InlineKeyboardButton(
-                        text="🎀 𝘾𝙡𝙤𝙨𝙚 🎀", callback_data="close"
-                    )
-                ]    
-            ]
-        )
-
-
 ## Queue Markup
 
 def queue_markup(_, videoid, chat_id):
