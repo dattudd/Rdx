@@ -27,7 +27,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝗧𝘂𝗻𝗲 𝗠𝘂𝘀𝗶𝗰 ™")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "kidxmusic")
 
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", None).split())
@@ -39,16 +39,16 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Noobxcoders/TuneMusic",
+    "https://github.com/dattudd/Rdx/tree/master",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/TuneMusicGroup")
+    "SUPPORT_CHANNEL", "https://t.me/itschinnoda")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/TuneMusicGroup")
+    "SUPPORT_GROUP", "https://t.me/itschinnoda")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
