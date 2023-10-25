@@ -1,5 +1,5 @@
 {
-    "name": "💐⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ♥️𝙎𝙪𝙕𝙪𝙈𝙚 ♡ 𝙈𝙪𝙨𝙞𝙘𝄟⃟🦋",
+    "name": "kid x music 🦋",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/e745fdaf1966f228582dc.jpg",
     "keywords": [
@@ -35,7 +35,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "💐⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ♥️𝙎𝙪𝙕𝙪𝙈𝙚 ♡ 𝙈𝙪𝙨𝙞𝙘𝄟⃟🦋",
+        "value": "kid x music 🦋",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -75,12 +75,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Fill the link of your group..",
-        "value": "https://t.me/TuneMusicGroup",
+        "value": "https://t.me/itschinnoda",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Fill the link of channel.",
-        "value": "https://t.me/TuneMusicGroup",
+        "value": "https://t.me/itschinnoda",
         "required": false
       }
     },
