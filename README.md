@@ -4,4 +4,4 @@
 
 ##  Deploy to Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/Noobxcoders/TuneMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/dattudd/Rdx)
